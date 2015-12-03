@@ -1,2 +1,2 @@
 
-Yet another library!
+Another library!
